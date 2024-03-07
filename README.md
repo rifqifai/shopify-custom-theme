@@ -5,7 +5,7 @@ Untuk login ke theme store:
 shopify theme dev --store my-store
 ```
 
-Untuk connect ke theme dev site: 
+Untuk pull changes dari dev site development: 
 ```sh
 shopify theme pull
 ```
@@ -15,7 +15,7 @@ Untuk start local development:
 shopify theme dev
 ```
 
-Untuk pull changes dari theme dev site: 
+Untuk pull changes dari local development: 
 ```sh
 shopify theme pull -d
 ```

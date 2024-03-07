@@ -709,6 +709,14 @@ video {
   margin-top: 0.5rem;
 }
 
+.ml-\[-3\] {
+  margin-left: -3;
+}
+
+.-ml-3 {
+  margin-left: -0.75rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -1334,6 +1342,11 @@ video {
   justify-items: stretch;
 }
 
+.gap-x-3 {
+  -moz-column-gap: 0.75rem;
+       column-gap: 0.75rem;
+}
+
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse: 0;
   margin-right: calc(0.5rem * var(--tw-space-x-reverse));
@@ -1887,6 +1900,19 @@ video {
 .object-scale-down {
   -o-object-fit: scale-down;
      object-fit: scale-down;
+}
+
+.p-3 {
+  padding: 0.75rem;
+}
+
+.px-3 {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.pl-\[-3px\] {
+  padding-left: -3px;
 }
 
 .text-left {

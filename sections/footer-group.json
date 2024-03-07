@@ -2,14 +2,83 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "newsletter_c4pJbz": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_kk7pDJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_PCbwmV": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_nkMcK7": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_kk7pDJ",
+        "paragraph_PCbwmV",
+        "email_form_nkMcK7"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "text_ChtTdq": {
+          "type": "text",
+          "settings": {
+            "heading": "Test Store Rifqi",
+            "subtext": "<p>Jl. Mangkualam no 99, Nduwur Bumi, Galaksi Bima Sakti <\/p><p>Email: rifqi.fauzi@sirclo.com<\/p><p>Telp: 0271 (55555)<\/p><p><\/p>"
+          }
+        },
+        "link_list_XKTVFy": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Footer Navigation 1",
+            "menu": "main-menu"
+          }
+        },
+        "link_list_NmPTXQ": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Footer Navigation 2",
+            "menu": "main-menu"
+          }
+        },
+        "brand_information_JgRBxW": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "text_ChtTdq",
+        "link_list_XKTVFy",
+        "link_list_NmPTXQ",
+        "brand_information_JgRBxW"
+      ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "newsletter_enable": true,
+        "color_scheme": "scheme-3",
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
-        "show_social": true,
+        "show_social": false,
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
@@ -21,6 +90,7 @@
     }
   },
   "order": [
+    "newsletter_c4pJbz",
     "footer"
   ]
 }
