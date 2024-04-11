@@ -73,13 +73,6 @@
             "image_width": 100,
             "alignment": "center"
           }
-        },
-        "image_CE3AMH": {
-          "type": "image",
-          "settings": {
-            "image_width": 100,
-            "alignment": "center"
-          }
         }
       },
       "block_order": [
@@ -87,8 +80,7 @@
         "link_list_XKTVFy",
         "link_list_NmPTXQ",
         "brand_information_JgRBxW",
-        "image_E7pw47",
-        "image_CE3AMH"
+        "image_E7pw47"
       ],
       "settings": {
         "color_scheme": "scheme-5",
