@@ -182,7 +182,7 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "rgba(0,0,0,0)",
+          "background": "#f3f3f3",
           "background_gradient": "",
           "text": "#000000",
           "button": "#0aabf9",
@@ -193,7 +193,7 @@
       },
       "scheme-655f051b-cb81-4c91-bad5-65b0842d1674": {
         "settings": {
-          "background": "rgba(0,0,0,0)",
+          "background": "#242833",
           "background_gradient": "",
           "text": "#fff",
           "button": "#0aabf9",

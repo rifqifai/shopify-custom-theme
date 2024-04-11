@@ -14,7 +14,7 @@
             "link": "shopify:\/\/collections",
             "button_style_secondary": false,
             "box_align": "middle-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-5",
@@ -32,7 +32,7 @@
             "link": "shopify:\/\/products\/everyday-beltbag",
             "button_style_secondary": false,
             "box_align": "middle-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-655f051b-cb81-4c91-bad5-65b0842d1674",
@@ -139,9 +139,9 @@
         "section_color_scheme": "scheme-5",
         "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 20,
-        "padding_bottom": 12
+        "padding_bottom": 0
       }
     },
     "image_with_text_PHk9G8": {
@@ -186,7 +186,7 @@
         "section_color_scheme": "scheme-5",
         "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -197,14 +197,14 @@
         "heading_EUhKQi": {
           "type": "heading",
           "settings": {
-            "heading": "Soundcore A20i",
+            "heading": "Anker 313 Super Fast charging 45W",
             "heading_size": "h1"
           }
         },
         "text_eaqgQN": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Personalized Experience with app<\/strong><\/p>",
+            "text": "<p><strong>Programmable Power Supply (PPS), teknologi PowerIQ 3.0<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -223,7 +223,7 @@
         "button_D4yUaB"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/soundcore.webp",
+        "image": "shopify:\/\/shop_images\/Anker_313_Super_Fast_charging_45W.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -233,7 +233,148 @@
         "section_color_scheme": "scheme-5",
         "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
         "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_GrtzUp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BHYBQe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Anker 511 Charger (Nano)",
+            "heading_size": "h1"
+          }
+        },
+        "text_c8MaQN": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>The Super-Small 20W Charger for iPhone<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_PgPqHN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/n-s-foldable-tote-in-blue-cinnabar",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BHYBQe",
+        "text_c8MaQN",
+        "button_PgPqHN"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Anker_511_Charger_Nano.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_8fRrD3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_x4BUWm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Anker 322 USB-C to Lightning Cable (3ft Braided)",
+            "heading_size": "h1"
+          }
+        },
+        "text_b8dpGW": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Support Fast Charging<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_hPakDb": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/n-s-foldable-tote-in-blue-cinnabar",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_x4BUWm",
+        "text_b8dpGW",
+        "button_hPakDb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Anker_322_USB-C_to_Lightning_Cable_3ft_Braided.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_6JCant": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_h9Kkhg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soundcore Wakey",
+            "heading_size": "h1"
+          }
+        },
+        "text_LpCpyU": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hassle-free wireless fast charging Built-in wireless charger Powered by Anker technology<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_94mX44": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/n-s-foldable-tote-in-blue-cinnabar",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_h9Kkhg",
+        "text_LpCpyU",
+        "button_94mX44"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Soundcore_Wakey.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -273,6 +414,9 @@
     "image_with_text_qHhWhn",
     "image_with_text_PHk9G8",
     "image_with_text_nVQFBM",
+    "image_with_text_GrtzUp",
+    "image_with_text_8fRrD3",
+    "image_with_text_6JCant",
     "featured_collection"
   ]
 }
