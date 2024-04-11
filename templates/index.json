@@ -509,7 +509,7 @@
         "column_iwjith"
       ],
       "custom_css": [
-        ".multicolumn-card {background-color: #fff;}"
+        ".multicolumn.background-primary .multicolumn-card {background: #fff;}"
       ],
       "settings": {
         "title": "Multicolumn",
