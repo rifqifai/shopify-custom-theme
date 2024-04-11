@@ -1,5 +1,6 @@
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/logo-anker.png",
     "logo_width": 90,
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
@@ -192,10 +193,10 @@
       },
       "scheme-655f051b-cb81-4c91-bad5-65b0842d1674": {
         "settings": {
-          "background": "#ffffff",
+          "background": "rgba(0,0,0,0)",
           "background_gradient": "",
-          "text": "#121212",
-          "button": "#121212",
+          "text": "#fff",
+          "button": "#0aabf9",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
