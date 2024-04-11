@@ -10,12 +10,12 @@
             "heading": "It's Official",
             "heading_size": "h1",
             "subheading": "Our new website",
-            "button_label": "Learn more",
+            "button_label": "Learn More",
             "link": "shopify:\/\/collections",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-5",
             "text_alignment_mobile": "left"
@@ -28,12 +28,12 @@
             "heading": "Anker 737 Charger (GaNPrime 120W)",
             "heading_size": "h1",
             "subheading": "Power IQ 4.0 With Dynamic Power Distribution",
-            "button_label": "Shop now",
+            "button_label": "Shop Now",
             "link": "shopify:\/\/products\/everyday-beltbag",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-655f051b-cb81-4c91-bad5-65b0842d1674",
             "text_alignment_mobile": "center"
@@ -45,8 +45,7 @@
         "slide_mrAG3L"
       ],
       "custom_css": [
-        ".slideshow__controls.slider-buttons {display: none;}",
-        "@media screen and (min-width: 750px) {.slideshow__text.banner__box {align-items: flex-start; text-align: left; }}"
+        ".slideshow__controls.slider-buttons {display: none;}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -66,18 +65,18 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/banner21.webp",
-            "heading": "It's Official",
+            "heading": "Liberty 4 The Ultimate Listening Experience",
             "heading_size": "h1",
-            "subheading": "Our new website",
-            "button_label": "Learn more",
+            "subheading": "Premium Sound and Spatial Audio",
+            "button_label": "Join Now",
             "link": "shopify:\/\/collections",
             "button_style_secondary": false,
             "box_align": "middle-right",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "right",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-5",
-            "text_alignment_mobile": "left"
+            "text_alignment_mobile": "right"
           }
         }
       },
@@ -85,7 +84,7 @@
         "slide_b6q7LK"
       ],
       "custom_css": [
-        "@media screen and (min-width: 750px) {.slideshow__text.banner__box {text-align: right; }}"
+
       ],
       "settings": {
         "layout": "full_bleed",
@@ -96,6 +95,147 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_with_text_qHhWhn": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CX8CAM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Anker Powerline III Flow",
+            "heading_size": "h1"
+          }
+        },
+        "text_KX4ENi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>USB-C with lightning connector, Super Strong, Suprisingly Soft<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_LA7U67": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/n-s-foldable-tote-in-blue-cinnabar",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CX8CAM",
+        "text_KX4ENi",
+        "button_LA7U67"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ANKER_POWERLINE_3_FLOW.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_PHk9G8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_WP6dXX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soundcore A20i",
+            "heading_size": "h1"
+          }
+        },
+        "text_3awNqt": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Personalized Experience with app<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_6NPTaT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/n-s-foldable-tote-in-blue-cinnabar",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WP6dXX",
+        "text_3awNqt",
+        "button_6NPTaT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/soundcore.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_nVQFBM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_EUhKQi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Soundcore A20i",
+            "heading_size": "h1"
+          }
+        },
+        "text_eaqgQN": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Personalized Experience with app<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_D4yUaB": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy Now",
+            "button_link": "shopify:\/\/products\/n-s-foldable-tote-in-blue-cinnabar",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_EUhKQi",
+        "text_eaqgQN",
+        "button_D4yUaB"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/soundcore.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-117240ad-dc43-4bee-b5db-0b09fdc670ff",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "featured_collection": {
@@ -130,6 +270,9 @@
   "order": [
     "slideshow_m9AYnD",
     "slideshow_HYMtUW",
+    "image_with_text_qHhWhn",
+    "image_with_text_PHk9G8",
+    "image_with_text_nVQFBM",
     "featured_collection"
   ]
 }
