@@ -65,17 +65,34 @@
           "settings": {
             "show_social": true
           }
+        },
+        "image_E7pw47": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anker_737_Charger_GaNPrime_120W.png",
+            "image_width": 100,
+            "alignment": "center"
+          }
+        },
+        "image_CE3AMH": {
+          "type": "image",
+          "settings": {
+            "image_width": 100,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "text_ChtTdq",
         "link_list_XKTVFy",
         "link_list_NmPTXQ",
-        "brand_information_JgRBxW"
+        "brand_information_JgRBxW",
+        "image_E7pw47",
+        "image_CE3AMH"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
-        "newsletter_enable": false,
+        "color_scheme": "scheme-5",
+        "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
         "show_social": false,

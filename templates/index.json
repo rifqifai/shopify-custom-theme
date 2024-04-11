@@ -460,66 +460,155 @@
             "title": "TWS",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/all"
+            "link": ""
           }
         },
         "column_QHQwL6": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tws.jpg",
-            "title": "TWS",
+            "image": "shopify:\/\/shop_images\/Chargers.jpg",
+            "title": "Chargers",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/collections\/all"
           }
         },
-        "column_fbHtJb": {
+        "column_86gHXE": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Chargers.jpg",
+            "title": "Power Banks",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/all"
           }
         },
-        "column_ieRBhC": {
+        "column_jFbgdA": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Cable.jpg",
+            "title": "Cable",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/all"
           }
         },
-        "column_iwjith": {
+        "column_kmM4Wb": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Headphone.jpg",
+            "title": "Headphone",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "column_ANVCfb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nebula.jpg",
+            "title": "Nebula",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/all"
           }
         }
       },
       "block_order": [
         "column_AjjTga",
         "column_QHQwL6",
-        "column_fbHtJb",
-        "column_ieRBhC",
-        "column_iwjith"
+        "column_86gHXE",
+        "column_jFbgdA",
+        "column_kmM4Wb",
+        "column_ANVCfb"
       ],
       "custom_css": [
-        ".multicolumn.background-primary .multicolumn-card {background: #fff;}"
+        ".multicolumn-card {background: #fff;}"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "video_wR9CqK": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/6808138c68024c77986b4cfe3a81a26a.HD-720p-1.6Mbps-25581315.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_tXAWWG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yPVUCE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Series_7.webp",
+            "title": "<strong>Series 7 Embrace Future Technology<\/strong>",
+            "text": "<p>Tech that is at the cutting edge of performance and specs.<\/p>",
+            "link_label": "Learn More",
+            "link": "#"
+          }
+        },
+        "column_M8dH74": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Series_6.webp",
+            "title": "<strong>Series 6 Discover Unique Experiences<\/strong>",
+            "text": "<p>Tech with unique functionality and features.<\/p>",
+            "link_label": "Learn More",
+            "link": "#"
+          }
+        },
+        "column_kEkpxV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Series_5.webp",
+            "title": "<strong>Series 5 Enjoy Higher Charger<\/strong>",
+            "text": "<p>Tech with premium design and superior performance.<\/p>",
+            "link_label": "Learn More",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "column_yPVUCE",
+        "column_M8dH74",
+        "column_kEkpxV"
+      ],
+      "custom_css": [
+        ".link.animate-arrow {color: #0aabe2;}",
+        ".multicolumn-card__info .icon-wrap {display: inline-flex;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
@@ -528,32 +617,20 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "image_banner_gfXUbe": {
+      "type": "image-banner",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
+        "image": "shopify:\/\/shop_images\/bottombanner.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
@@ -568,6 +645,8 @@
     "image_with_text_6JCant",
     "multicolumn_CmnYy4",
     "multicolumn_EPcb8r",
-    "featured_collection"
+    "video_wR9CqK",
+    "multicolumn_tXAWWG",
+    "image_banner_gfXUbe"
   ]
 }
