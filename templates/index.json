@@ -542,19 +542,13 @@
         "padding_bottom": 0
       }
     },
-    "video_wR9CqK": {
-      "type": "video",
+    "custom_liquid_ENRbdi": {
+      "type": "custom-liquid",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/6808138c68024c77986b4cfe3a81a26a.HD-720p-1.6Mbps-25581315.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
+        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8ce05193234f4f2f91f6274f63ef5aff.mp4\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8ce05193234f4f2f91f6274f63ef5aff.mp4\"\n                  type=\"video\/mp4\">\n<\/video>",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_tXAWWG": {
@@ -645,7 +639,7 @@
     "image_with_text_6JCant",
     "multicolumn_CmnYy4",
     "multicolumn_EPcb8r",
-    "video_wR9CqK",
+    "custom_liquid_ENRbdi",
     "multicolumn_tXAWWG",
     "image_banner_gfXUbe"
   ]
