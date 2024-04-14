@@ -545,7 +545,7 @@
     "custom_liquid_ENRbdi": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8ce05193234f4f2f91f6274f63ef5aff.mp4\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8ce05193234f4f2f91f6274f63ef5aff.mp4\"\n                  type=\"video\/mp4\">\n<\/video>",
+        "custom_liquid": "<div class=\"video-container\">\n  <video muted autoplay playsinline loop>\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8ce05193234f4f2f91f6274f63ef5aff.mp4\"\n                    type=\"video\/mp4\">\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8ce05193234f4f2f91f6274f63ef5aff.mp4\"\n                    type=\"video\/mp4\">\n  <\/video>\n  <div id=\"widget__anker-special-wrapper\">\n    <h6 id=\"widget__anker-special-title\">Live Charged.<\/h6>\n    <span id=\"widget__anker-special-btn\">\n      <a href=\"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc\" target=\"_blank\">\n        Watch Full Video \n        <svg aria-hidden=\"true\" stroke-width=\"1.5\" fill=\"white\" viewBox=\"0 0 24 24\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M5.25 5.653c0-.856.917-1.398 1.667-.986l11.54 6.348a1.125 1.125 0 010 1.971l-11.54 6.347a1.125 1.125 0 01-1.667-.985V5.653z\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n        <\/svg>\n      <\/a>\n    <\/span>\n  <\/div>\n<\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
