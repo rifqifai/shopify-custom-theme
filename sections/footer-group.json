@@ -29,6 +29,7 @@
         "paragraph_PCbwmV",
         "email_form_nkMcK7"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "scheme-2",
         "full_width": true,
@@ -39,25 +40,26 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text_ChtTdq": {
-          "type": "text",
-          "settings": {
-            "heading": "Test Store Rifqi",
-            "subtext": "<p>Jl. Mangkualam no 99, Nduwur Bumi, Galaksi Bima Sakti <\/p><p>Email: rifqi.fauzi@sirclo.com<\/p><p>Telp: 0271 (55555)<\/p><p><\/p>"
-          }
-        },
         "link_list_XKTVFy": {
           "type": "link_list",
           "settings": {
-            "heading": "Footer Navigation 1",
-            "menu": "main-menu"
+            "heading": "Most Visited",
+            "menu": "navigation"
           }
         },
         "link_list_NmPTXQ": {
           "type": "link_list",
           "settings": {
-            "heading": "Footer Navigation 2",
-            "menu": "main-menu"
+            "heading": "Menu",
+            "menu": "footer"
+          }
+        },
+        "image_hTBmtK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bank_icon_aaf396b4-28c9-4581-acc1-5208b6ccac15.png",
+            "image_width": 200,
+            "alignment": ""
           }
         },
         "brand_information_JgRBxW": {
@@ -68,29 +70,46 @@
         }
       },
       "block_order": [
-        "text_ChtTdq",
         "link_list_XKTVFy",
         "link_list_NmPTXQ",
+        "image_hTBmtK",
         "brand_information_JgRBxW"
       ],
+      "custom_css": [
+        ".footer__content-bottom {display: none;}",
+        ".footer__content-top {padding-bottom: 0;}",
+        ".rte p {font-size: 12px; padding-bottom: 15px;}",
+        ".newsletter-form__field-wrapper .field__input {background: #ffff;}",
+        ".footer__list-social {margin-top: 10px;}"
+      ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
         "show_social": false,
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "payment_enable": true,
+        "payment_enable": false,
         "show_policy": false,
         "margin_top": 0,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_TPgELC": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<section id=\"shopify-section-sections--16847441330345__logo_list_DjAXQF\" class=\"shopify-section shopify-section-group-footer-group cc-logo-list\"><style data-shopify=\"\">.logo-list img {\n    width: 100%;\n    height: auto;\n  }\n  .logo-list li {\n    align-items: center;\n    display: flex;\n  }\n\n  #section-sections--16847441330345__logo_list_DjAXQF .logo-list { column-gap: 36px; }\n  @media (max-width: 769px) {\n    #section-sections--16847441330345__logo_list_DjAXQF .logo-list { column-gap: 23.76px; }\n  }\n  @media (max-width: 600px) {\n    #section-sections--16847441330345__logo_list_DjAXQF .logo-list { column-gap: 11.88px; }\n  }\n\n  .section-sections--16847441330345__logo_list_DjAXQF-padding {\n    padding-top: 27px;\n    padding-bottom: 54px;\n  }\n\n  @media screen and (min-width: 750px) {\n    .section-sections--16847441330345__logo_list_DjAXQF-padding {\n      padding-top: 36px;\n      padding-bottom: 72px;\n    }\n  }\n  \n  \n    #block-logo_4dcJpc { width: 100px; }\n  \n    #block-logo_PMQmCJ { width: 100px; }\n  \n    #block-logo_Cbbbcp { width: 100px; }\n  \n    #block-logo_qxVhEp { width: 100px; }\n  \n    #block-logo_cRRWFn { width: 100px; }\n  \n    #block-logo_HgKeBA { width: 100px; }\n  \n    #block-logo_aJpjC6 { width: 100px; }\n  \n<\/style><div class=\"section section--padded section-sections--16847441330345__logo_list_DjAXQF-padding section--full-width\" id=\"section-sections--16847441330345__logo_list_DjAXQF\"><div class=\"container\">\n      <ul class=\"logo-list grid grid-cols-2 sm:flex sm:flex-wrap justify-center gap-x-theme gap-y-theme\" role=\"list\" data-cc-animate=\"\"><li class=\"flex items-center justify-center\">\n            <div class=\"logo-list__logo text-center\" id=\"block-logo_4dcJpc\"><img src=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/anker_inovation.png?v=1710301474&amp;width=100\" class=\"w-auto no-js-hidden\" style=\"object-position: 50.0% 50.0%\" loading=\"eager\" width=\"100\" height=\"60\" alt=\"\">\n<\/div>\n          <\/li><li class=\"flex items-center justify-center\">\n            <div class=\"logo-list__logo text-center\" id=\"block-logo_PMQmCJ\"><img src=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/ankerico.png?v=1710301474&amp;width=100\" class=\"w-auto no-js-hidden\" style=\"object-position: 50.0% 50.0%\" loading=\"eager\" width=\"100\" height=\"24\" alt=\"\">\n<\/div>\n          <\/li><li class=\"flex items-center justify-center\">\n            <div class=\"logo-list__logo text-center\" id=\"block-logo_Cbbbcp\"><img src=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/soundcore.png?v=1710301474&amp;width=100\" class=\"w-auto no-js-hidden\" style=\"object-position: 50.0% 50.0%\" loading=\"eager\" width=\"100\" height=\"18\" alt=\"\">\n<\/div>\n          <\/li><li class=\"flex items-center justify-center\">\n            <div class=\"logo-list__logo text-center\" id=\"block-logo_qxVhEp\"><img srcset=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/eufy.png?v=1710301474&amp;width=100, \/\/ankerindonesia.com\/cdn\/shop\/files\/eufy.png?v=1710301474&amp;width=200 2x\" src=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/eufy.png?v=1710301474&amp;width=200\" class=\"w-auto no-js-hidden\" style=\"object-position: 50.0% 50.0%\" loading=\"eager\" width=\"200\" height=\"95\" alt=\"\">\n<\/div>\n          <\/li><li class=\"flex items-center justify-center\">\n            <div class=\"logo-list__logo text-center\" id=\"block-logo_cRRWFn\"><img src=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/nebula.png?v=1710301474&amp;width=100\" class=\"w-auto no-js-hidden\" style=\"object-position: 50.0% 50.0%\" loading=\"eager\" width=\"100\" height=\"14\" alt=\"\">\n<\/div>\n          <\/li><li class=\"flex items-center justify-center\">\n            <div class=\"logo-list__logo text-center\" id=\"block-logo_HgKeBA\"><img src=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/ankerwork.png?v=1710301474&amp;width=100\" class=\"w-auto no-js-hidden\" style=\"object-position: 50.0% 50.0%\" loading=\"eager\" width=\"100\" height=\"18\" alt=\"\">\n<\/div>\n          <\/li><li class=\"flex items-center justify-center\">\n            <div class=\"logo-list__logo text-center\" id=\"block-logo_aJpjC6\"><img src=\"\/\/ankerindonesia.com\/cdn\/shop\/files\/ankermake.png?v=1710301474&amp;width=100\" class=\"w-auto no-js-hidden\" style=\"object-position: 50.0% 50.0%\" loading=\"eager\" width=\"100\" height=\"15\" alt=\"\">\n<\/div>\n          <\/li><\/ul>\n    <\/div><\/div>\n\n<style> #shopify-section-sections--16847441330345__logo_list_DjAXQF div{background-color:#f4f4f4;max-width: unset;} <\/style><\/section>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
     "newsletter_c4pJbz",
-    "footer"
+    "footer",
+    "custom_liquid_TPgELC"
   ]
 }
